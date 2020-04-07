@@ -1,0 +1,190 @@
+2020-04-02 14:43:45,666 - ebanking -INFO - URL is opened
+2020-04-02 14:43:45,940 - ebanking -INFO - Entered username
+2020-04-02 14:43:46,081 - ebanking -INFO - Entered password
+2020-04-02 14:43:53,971 - ebanking -INFO - Login test passed
+2020-04-03 12:32:54,892 - ebanking -INFO - URL is opened
+2020-04-03 12:32:55,179 - ebanking -INFO - Entered username
+2020-04-03 12:32:55,298 - ebanking -INFO - Entered password
+2020-04-03 12:33:00,736 - ebanking -INFO - Login test passed
+2020-04-03 18:46:45,989 - ebanking -INFO - URL is opened
+2020-04-03 18:46:46,227 - ebanking -INFO - Entered username
+2020-04-03 18:46:46,355 - ebanking -INFO - Entered password
+2020-04-03 18:46:51,954 - ebanking -INFO - Login test passed
+2020-04-03 18:53:54,766 - ebanking -INFO - URL is opened
+2020-04-03 18:53:54,908 - ebanking -INFO - Entered username
+2020-04-03 18:53:54,957 - ebanking -INFO - Entered password
+2020-04-03 18:54:01,399 - ebanking -INFO - Login test passed
+2020-04-03 23:54:47,581 - ebanking -INFO - URL is opened
+2020-04-03 23:54:48,090 - ebanking -INFO - Entered username
+2020-04-03 23:54:48,230 - ebanking -INFO - Entered password
+2020-04-03 23:54:55,548 - ebanking -INFO - Login test passed
+2020-04-04 02:07:45,100 - ebanking -INFO - URL is opened
+2020-04-04 02:07:45,390 - ebanking -INFO - Entered username
+2020-04-04 02:07:45,576 - ebanking -INFO - Entered password
+2020-04-04 02:07:53,280 - ebanking -INFO - Login test passed
+2020-04-04 03:21:43,463 - ebanking -INFO - URL is opened
+2020-04-04 03:21:43,727 - ebanking -INFO - Entered username
+2020-04-04 03:21:43,862 - ebanking -INFO - Entered password
+2020-04-04 03:21:49,276 - ebanking -INFO - Login test passed
+2020-04-04 03:46:00,530 - ebanking -INFO - URL is opened
+2020-04-04 03:46:01,237 - ebanking -INFO - Entered username
+2020-04-04 03:46:02,096 - ebanking -INFO - Entered password
+2020-04-04 03:46:12,258 - ebanking -INFO - Login test passed
+2020-04-04 03:48:49,617 - ebanking -INFO - URL is opened
+2020-04-04 03:48:49,782 - ebanking -INFO - Entered username
+2020-04-04 03:48:49,832 - ebanking -INFO - Entered password
+2020-04-04 03:48:55,697 - ebanking -INFO - Login test passed
+2020-04-05 19:32:49,200 - ebanking -INFO - URL is opened
+2020-04-05 19:32:51,012 - ebanking -INFO - user name provided
+2020-04-05 19:32:51,110 - ebanking -INFO - password provided
+2020-04-05 19:32:58,323 - ebanking -INFO - user name provided
+2020-04-05 19:32:58,369 - ebanking -INFO - password provided
+2020-04-05 19:33:04,364 - ebanking -INFO - user name provided
+2020-04-05 19:33:04,399 - ebanking -INFO - password provided
+2020-04-05 19:33:09,713 - ebanking -INFO - user name provided
+2020-04-05 19:33:09,761 - ebanking -INFO - password provided
+2020-04-05 19:33:15,236 - ebanking -INFO - user name provided
+2020-04-05 19:33:15,278 - ebanking -INFO - password provided
+2020-04-05 19:38:39,755 - ebanking -INFO - URL is opened
+2020-04-05 19:38:41,172 - ebanking -INFO - user name provided
+2020-04-05 19:38:41,217 - ebanking -INFO - password provided
+2020-04-05 19:38:47,949 - ebanking -INFO - user name provided
+2020-04-05 19:38:47,985 - ebanking -INFO - password provided
+2020-04-05 19:38:53,601 - ebanking -INFO - user name provided
+2020-04-05 19:38:53,643 - ebanking -INFO - password provided
+2020-04-05 19:38:58,630 - ebanking -INFO - user name provided
+2020-04-05 19:38:58,664 - ebanking -INFO - password provided
+2020-04-05 19:39:03,639 - ebanking -INFO - user name provided
+2020-04-05 19:39:03,678 - ebanking -INFO - password provided
+2020-04-05 19:43:00,213 - ebanking -INFO - URL is opened
+2020-04-05 19:43:01,604 - ebanking -INFO - user name provided
+2020-04-05 19:43:01,649 - ebanking -INFO - password provided
+2020-04-05 19:43:14,609 - ebanking -INFO - login passed
+2020-04-05 19:43:21,039 - ebanking -INFO - user name provided
+2020-04-05 19:43:21,089 - ebanking -INFO - password provided
+2020-04-05 19:43:26,427 - ebanking -INFO - user name provided
+2020-04-05 19:43:26,476 - ebanking -INFO - password provided
+2020-04-05 19:43:32,604 - ebanking -INFO - user name provided
+2020-04-05 19:43:32,637 - ebanking -INFO - password provided
+2020-04-05 19:43:38,019 - ebanking -INFO - user name provided
+2020-04-05 19:43:38,052 - ebanking -INFO - password provided
+2020-04-05 19:43:49,414 - ebanking -INFO - login passed
+2020-04-05 23:39:18,644 - ebanking -INFO - URL is opened
+2020-04-05 23:39:20,054 - ebanking -INFO - user name provided
+2020-04-05 23:39:20,103 - ebanking -INFO - password provided
+2020-04-05 23:39:30,474 - ebanking -INFO - login passed
+2020-04-05 23:39:36,919 - ebanking -INFO - user name provided
+2020-04-05 23:39:36,967 - ebanking -INFO - password provided
+2020-04-05 23:39:42,325 - ebanking -INFO - user name provided
+2020-04-05 23:39:42,370 - ebanking -INFO - password provided
+2020-04-05 23:39:47,706 - ebanking -INFO - user name provided
+2020-04-05 23:39:47,749 - ebanking -INFO - password provided
+2020-04-05 23:39:52,737 - ebanking -INFO - user name provided
+2020-04-05 23:39:52,781 - ebanking -INFO - password provided
+2020-04-05 23:40:04,668 - ebanking -INFO - login passed
+2020-04-05 23:43:55,664 - ebanking -INFO - URL is opened
+2020-04-05 23:43:57,127 - ebanking -INFO - user name provided
+2020-04-05 23:43:57,173 - ebanking -INFO - password provided
+2020-04-05 23:44:05,607 - ebanking -INFO - login passed
+2020-04-05 23:44:11,941 - ebanking -INFO - user name provided
+2020-04-05 23:44:11,991 - ebanking -INFO - password provided
+2020-04-05 23:44:17,401 - ebanking -INFO - user name provided
+2020-04-05 23:44:17,437 - ebanking -INFO - password provided
+2020-04-05 23:44:22,448 - ebanking -INFO - user name provided
+2020-04-05 23:44:22,606 - ebanking -INFO - password provided
+2020-04-05 23:44:28,257 - ebanking -INFO - user name provided
+2020-04-05 23:44:28,296 - ebanking -INFO - password provided
+2020-04-05 23:44:37,374 - ebanking -INFO - login passed
+2020-04-05 23:47:16,922 - ebanking -INFO - URL is opened
+2020-04-05 23:47:17,099 - ebanking -INFO - Entered username
+2020-04-05 23:47:17,153 - ebanking -INFO - Entered password
+2020-04-05 23:47:24,453 - ebanking -INFO - Login test passed
+2020-04-05 23:47:57,700 - ebanking -INFO - URL is opened
+2020-04-05 23:47:58,988 - ebanking -INFO - user name provided
+2020-04-05 23:47:59,034 - ebanking -INFO - password provided
+2020-04-05 23:48:07,978 - ebanking -INFO - login passed
+2020-04-05 23:48:14,365 - ebanking -INFO - user name provided
+2020-04-05 23:48:14,408 - ebanking -INFO - password provided
+2020-04-05 23:48:19,761 - ebanking -INFO - user name provided
+2020-04-05 23:48:19,807 - ebanking -INFO - password provided
+2020-04-05 23:48:25,146 - ebanking -INFO - user name provided
+2020-04-05 23:48:25,196 - ebanking -INFO - password provided
+2020-04-05 23:48:30,568 - ebanking -INFO - user name provided
+2020-04-05 23:48:30,607 - ebanking -INFO - password provided
+2020-04-05 23:48:39,090 - ebanking -INFO - login passed
+2020-04-06 14:15:53,430 - ebanking -INFO - URL is opened
+2020-04-06 14:15:53,745 - ebanking -INFO - User name is provided
+2020-04-06 14:15:53,887 - ebanking -INFO - Passsword is provided
+2020-04-06 14:16:10,298 - ebanking -INFO - providing customer details....
+2020-04-06 14:16:19,471 - ebanking -INFO - validation started....
+2020-04-06 14:47:28,661 - ebanking -INFO - URL is opened
+2020-04-06 14:47:28,849 - ebanking -INFO - User name is provided
+2020-04-06 14:47:28,899 - ebanking -INFO - Passsword is provided
+2020-04-06 14:47:43,676 - ebanking -INFO - providing customer details....
+2020-04-06 14:47:52,550 - ebanking -INFO - validation started....
+2020-04-06 14:58:35,273 - ebanking -INFO - URL is opened
+2020-04-06 14:58:35,450 - ebanking -INFO - Entered username
+2020-04-06 14:58:35,495 - ebanking -INFO - Entered password
+2020-04-06 14:58:41,492 - ebanking -INFO - Login test passed
+2020-04-06 14:59:16,465 - ebanking -INFO - URL is opened
+2020-04-06 14:59:18,887 - ebanking -INFO - user name provided
+2020-04-06 14:59:18,932 - ebanking -INFO - password provided
+2020-04-06 14:59:30,519 - ebanking -INFO - login passed
+2020-04-06 14:59:37,462 - ebanking -INFO - user name provided
+2020-04-06 14:59:37,511 - ebanking -INFO - password provided
+2020-04-06 14:59:42,566 - ebanking -INFO - user name provided
+2020-04-06 14:59:42,608 - ebanking -INFO - password provided
+2020-04-06 14:59:47,644 - ebanking -INFO - user name provided
+2020-04-06 14:59:47,691 - ebanking -INFO - password provided
+2020-04-06 14:59:52,715 - ebanking -INFO - user name provided
+2020-04-06 14:59:52,750 - ebanking -INFO - password provided
+2020-04-06 15:00:01,401 - ebanking -INFO - login passed
+2020-04-06 15:00:39,582 - ebanking -INFO - URL is opened
+2020-04-06 15:00:39,660 - ebanking -INFO - User name is provided
+2020-04-06 15:00:39,707 - ebanking -INFO - Passsword is provided
+2020-04-06 15:00:55,312 - ebanking -INFO - providing customer details....
+2020-04-06 15:01:04,195 - ebanking -INFO - validation started....
+2020-04-06 17:06:07,210 - ebanking -INFO - URL is opened
+2020-04-06 17:06:07,434 - ebanking -INFO - Entered username
+2020-04-06 17:06:07,477 - ebanking -INFO - Entered password
+2020-04-06 17:06:13,075 - ebanking -INFO - Login test passed
+2020-04-06 17:28:58,437 - ebanking -INFO - URL is opened
+2020-04-06 17:28:58,699 - ebanking -INFO - Entered username
+2020-04-06 17:28:58,754 - ebanking -INFO - Entered password
+2020-04-06 17:29:04,420 - ebanking -INFO - Login test passed
+2020-04-06 19:10:45,140 - ebanking -INFO - URL is opened
+2020-04-06 19:10:45,474 - ebanking -INFO - Entered username
+2020-04-06 19:10:45,588 - ebanking -INFO - Entered password
+2020-04-06 19:10:52,360 - ebanking -INFO - Login test passed
+2020-04-06 20:56:30,849 - ebanking -INFO - URL is opened
+2020-04-06 20:56:31,299 - ebanking -INFO - Entered username
+2020-04-06 20:56:31,367 - ebanking -INFO - Entered password
+2020-04-06 20:56:38,559 - ebanking -INFO - Login test passed
+2020-04-06 21:32:34,460 - ebanking -INFO - URL is opened
+2020-04-06 21:32:34,762 - ebanking -INFO - Entered username
+2020-04-06 21:32:34,901 - ebanking -INFO - Entered password
+2020-04-06 21:32:44,245 - ebanking -INFO - Login test passed
+2020-04-06 22:26:20,813 - ebanking -INFO - URL is opened
+2020-04-06 22:26:21,126 - ebanking -INFO - Entered username
+2020-04-06 22:26:21,254 - ebanking -INFO - Entered password
+2020-04-06 22:26:27,356 - ebanking -INFO - Login test passed
+2020-04-06 22:46:04,263 - ebanking -INFO - URL is opened
+2020-04-06 22:46:04,430 - ebanking -INFO - Entered username
+2020-04-06 22:46:04,492 - ebanking -INFO - Entered password
+2020-04-06 22:46:13,721 - ebanking -INFO - Login test passed
+2020-04-07 00:29:00,574 - ebanking -INFO - URL is opened
+2020-04-07 00:29:00,853 - ebanking -INFO - Entered username
+2020-04-07 00:29:00,911 - ebanking -INFO - Entered password
+2020-04-07 00:29:09,772 - ebanking -INFO - Login test passed
+2020-04-07 19:29:00,542 - ebanking -INFO - URL is opened
+2020-04-07 19:29:01,378 - ebanking -INFO - Entered username
+2020-04-07 19:29:01,430 - ebanking -INFO - Entered password
+2020-04-07 19:29:10,671 - ebanking -INFO - Login test passed
+2020-04-07 19:31:16,428 - ebanking -INFO - URL is opened
+2020-04-07 19:31:16,601 - ebanking -INFO - Entered username
+2020-04-07 19:31:16,647 - ebanking -INFO - Entered password
+2020-04-07 19:31:25,000 - ebanking -INFO - Login test passed
+2020-04-07 19:44:08,750 - ebanking -INFO - URL is opened
+2020-04-07 19:44:09,050 - ebanking -INFO - Entered username
+2020-04-07 19:44:09,099 - ebanking -INFO - Entered password
+2020-04-07 19:44:19,386 - ebanking -INFO - Login test passed
